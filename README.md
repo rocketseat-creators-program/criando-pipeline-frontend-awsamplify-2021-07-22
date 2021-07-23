@@ -1,7 +1,7 @@
 
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Deploy de uma aplicação Node.js usando AWS Elastic Beanstalk
+# Criando pipeline para aplicação frontend no AWS Amplify
 
 Ver nossa aplicação em frontend rodar local é ótimo, mas melhor ainda, quando podemos ver ela funcionando em ambiente de produção, onde realmente os verdadeiros erros começam a aparecer.
 
